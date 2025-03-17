@@ -1,0 +1,9 @@
+numpy==1.23.3
+scikit-image
+opencv-python
+tensorboard
+torch
+torchvision
+configparser
+matplotlib
+Pillow
